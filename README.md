@@ -1,2 +1,2 @@
 # MMVAE-AVS
-multi-modal vae for audio-visual segmentation.
+Multimodal Variational Auto-encoder based Audio-Visual Segmentation [ICCV2023].
